@@ -16,11 +16,11 @@
 
 ---
 
-I am an **ML/NLP engineer** with 3+ years of experience training NLP models and building applied
-Deep Learning solutions. I work at the intersection of **research and production**: validating
-hypotheses, training models and bringing solutions into working ML systems. My background is
-in **physics** (Lomonosov Moscow State University), with hands-on work spanning autograd internals, physics-informed networks,
-reinforcement learning, and biomechanical modelling.
+I am an **ML/NLP Engineer** with 3+ years of experience building NLP and LLM systems, including
+LLM safety models, agentic workflows, model fine-tuning, hallucination detection, and
+production-oriented ML pipelines. I have a strong **physics and mathematical background**
+from Lomonosov Moscow State University, with hands-on experience moving research ideas
+from experiments to deployed ML systems.
 
 ## Core Stack
 
