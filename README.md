@@ -8,12 +8,6 @@
   <a href="https://www.linkedin.com/in/n1ksw1r/"><img src="https://img.shields.io/badge/LinkedIn-n1ksw1r-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="cv/Nikita_CV_EN.pdf"><img src="https://img.shields.io/badge/Download%20CV-EN-4338ca?style=for-the-badge"></a>
-  &nbsp;
-  <a href="cv/Nikita_CV_RU.pdf"><img src="https://img.shields.io/badge/Скачать%20CV-RU-0d9488?style=for-the-badge"></a>
-</p>
-
 ---
 
 ## Repositories
